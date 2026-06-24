@@ -1,9 +1,7 @@
 password = "admin123"
 secret_key = "my-secret-key"
 
-print("Start")
 
-    print("wrong indent")
 
 undefined_variable
 
