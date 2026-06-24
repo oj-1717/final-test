@@ -1,8 +1,17 @@
-print("HHH")
-print
-    print("HHH")
-hhhh
-ddfgfdsa
+password = "admin123"
+secret_key = "my-secret-key"
 
-    print("oj")
-    print("oj")
+print("Start")
+
+    print("wrong indent")
+
+undefined_variable
+
+def login(user):
+    if user == "admin":
+        print("Welcome")
+
+eval(input("Enter command: "))
+
+import subprocess
+subprocess.run("ls", shell=True)
